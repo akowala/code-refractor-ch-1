@@ -2,7 +2,7 @@
 
 ## Description
 
-In this challenge, both the CSS and HTML code has been rafactored to make the original website that has been given to us, more efficient. I condensed and consolidated lines of CSS code to 
+In this challenge, both the CSS and HTML code has been rafactored to make the original website that has been given to us, more efficient. I condensed and consolidated lines of CSS code, added a proper website title, and made all links functional.
 
 ## Link to live page
 
